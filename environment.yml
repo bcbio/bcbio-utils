@@ -1,0 +1,6 @@
+name: bcbio-utils
+channels:
+  - bioconda
+dependencies:
+  - python=2.7.*
+  - bcbio-nextgen
