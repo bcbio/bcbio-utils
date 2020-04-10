@@ -4,3 +4,8 @@ channels:
 dependencies:
   - python=2.7.*
   - bcbio-nextgen
+  - bx-python
+  - mako
+  - rpy2
+  - sh
+  - synapseclient
