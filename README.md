@@ -7,7 +7,7 @@ To install:
 git clone git@github.com:bcbio/bcbio-utils.git
 conda env create --name bcbio-utils --file bcbio-utils/environment.yml
 ```
-If you would like to use CWL scripts you will to install `cwltool` separately:
+If you would like to use CWL scripts you will need to install `cwltool` separately:
 ```shell
 conda activate bcbio-utils
 pip install cwltool
